@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": "toe-spacer",
+      "title": "토 스페이서",
+      "description": "제품 구성과 사이즈는 쿠팡에서 확인해 주세요.",
+      "url": "https://link.coupang.com/a/hOlJISeNB6",
+      "image": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/9f2b/985897e88ceed3c35725a102504f98a798f0870dae4387414c479e185906.png",
+      "affiliate": "coupang"
+    },
+    {
+      "id": "dongfit-massage-tool",
+      "title": "동핏랩 마사지 도구",
+      "description": "제품 사양과 사용 안내는 쿠팡에서 확인해 주세요.",
+      "url": "https://link.coupang.com/a/hOlNjFMZAi",
+      "image": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/11290203391170-6246a021-b203-44fe-ad21-61a8f907842e.jpg",
+      "affiliate": "coupang"
+    },
+    {
+      "id": "theraband",
+      "title": "세라밴드 운동 밴드",
+      "description": "밴드의 강도와 구성은 쿠팡에서 확인해 주세요.",
+      "url": "https://link.coupang.com/a/hOlR9v1fk4",
+      "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2087155181105058-eb1f84f6-29c0-4c19-96eb-944a4dd79f2e.jpg",
+      "affiliate": "coupang"
+    }
+  ],
+  "resources": [
+    {
+      "id": "yoga-sequence",
+      "number": 1,
+      "title": "요가 시퀀스 만들기",
+      "description": "요가 동작 100개 중 원하는 동작을 골라 나만의 시퀀스를 만드는 앱",
+      "url": "https://drive.google.com/file/d/1xUsEk_WMVl00TRe1ZA7n3OGuvdmng0xZ/view?usp=drive_link"
+    },
+    {
+      "id": "yoga-sanskrit",
+      "number": 2,
+      "title": "요가 산스크리트어 공부",
+      "description": "요가 아사나 이름에 쓰이는 산스크리트어를 공부하는 앱",
+      "url": "https://drive.google.com/file/d/1juoKtESw-Eznv8xVW9DtmYPxTT9dw0QV/view?usp=drive_link"
+    }
+  ],
+  "nextResourceNumber": 3
+}
